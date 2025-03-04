@@ -1,3 +1,10 @@
+
+
+**This repository is archived. For the actively maintained version, please visit the Crownpeak repository: [https://github.com/Crownpeak/headstart](https://github.com/Crownpeak/headstart)**
+
+
+--- 
+
 # Project HeadStart - Crownpeak CMS Headless Introduction
 
 Welcome to the Crownpeak CMS (FirstSpirit) Headless Introduction project. This guide aims to provide you with a comprehensive understanding of Crownpeak CMS, its key components, and how it can enhance your digital content management experience.
